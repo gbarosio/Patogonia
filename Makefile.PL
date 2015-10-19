@@ -8,5 +8,5 @@ WriteMakefile(
     PREREQ_PM         => {}, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Patogonia/DB.pm', # retrieve abstract from module
-       AUTHOR         => 'Guido Barosio <gbarosio@apple.com>') : ()),
+       AUTHOR         => 'Guido Barosio <gbarosio@gmail.com>') : ()),
 );
