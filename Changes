@@ -1,0 +1,6 @@
+Revision history for Perl extension Patogonia::DB.
+
+0.01  Mon Oct 19 18:55:19 2015
+	- original version; created by h2xs 1.23 with options
+		-Xan Patogonia::DB
+
